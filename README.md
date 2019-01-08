@@ -10,15 +10,15 @@ My second Multinomial Naive Bayes model performed the best. With the best parame
 
 #### Recommendations
 
-* Go with Multinomial Naive Bayes Model #2
- * Version 2 handled bias/variance the best
+* Go with Multinomial Naive Bayes Model
+  * Version 2 handled bias/variance the best
 
 * Spend more time with current features
- * e.g. Engineer a character or word length feature
+  * e.g. Engineer a character or word length feature
 
 * Explore new features
- * Upvotes
- * Post comments
+  * Upvotes
+  * Post comments
 
    
 #### Our presentation can be found [here.](https://docs.google.com/presentation/d/1S3R8KSKmX8M_uOtiXYiAQbVpRUHqMC8QfxfBW7Zx18k/edit?usp=sharing)
