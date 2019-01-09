@@ -1,6 +1,6 @@
 Problem Statement
 ----
-Develop a NLP model to a classification model that can distinguish which of two subreddits, ([r/menstruation](https://www.reddit.com/r/menstruation) or [r/BabyBumps](https://www.reddit.com/r/BabyBumps)), a particular post belongs to.
+Develop a classification model that can distinguish which of two subreddits, ([r/menstruation](https://www.reddit.com/r/menstruation) or [r/BabyBumps](https://www.reddit.com/r/BabyBumps)), a particular post belongs to.
 
 
 ## Executive Summary
@@ -21,4 +21,4 @@ My second Multinomial Naive Bayes model performed the best. With the best parame
   * Post comments
 
    
-#### Our presentation can be found [here.](https://docs.google.com/presentation/d/1S3R8KSKmX8M_uOtiXYiAQbVpRUHqMC8QfxfBW7Zx18k/edit?usp=sharing)
+#### Our presentation can be found [here.](https://docs.google.com/presentation/d/1S3R8KSKmX8M_uOtiXYiAQbVpRUHqMC8QfxfBW7Zx18k/edit?usp=sharing) I also have [an article featured on Towards Data Science](https://towardsdatascience.com/classifying-reddit-posts-with-natural-language-processing-and-machine-learning-695f9a576ecb) that walks you through my data science process.
